@@ -1,0 +1,24 @@
+{
+  "name": "node-automation-with-jenkins",
+  "version": "1.0.0",
+  "description": "continous integration and delivery node js and jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanaraID/node-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanaraID/node-automation/issues"
+  },
+  "homepage": "https://github.com/VanaraID/node-automation#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jasmine-node": "^1.16.2",
+    "request": "^2.88.0"
+  }
+}
